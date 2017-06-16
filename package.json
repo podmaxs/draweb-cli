@@ -1,5 +1,10 @@
 {
 	"name": "draweb",
+	"description":"",
+	"version": "0.0.1",
+	"url":"https://github.com/podmaxs/draweb-cli",
+	"license": "ISC",
+	"email":"podmaxs@gmail.com",
 	"bin": {
     	"draweb": "bin/draweb"
  	 }
