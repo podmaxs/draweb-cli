@@ -1,3 +1,6 @@
 {
-	"name": "draweb"	
+	"name": "draweb",
+	"bin": {
+    	"draweb": "bin/draweb"
+ 	 }
 }

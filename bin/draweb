@@ -14,4 +14,4 @@ IonicCli.run(process.argv).catch(function(err){
   console.error('Caught exception:\n', err.stack, '\n\nMind letting us know? https://github.com/driftyco/ionic-cli/issues\n');
 });*/
 
-console.log('draweb cli test');
+console.log('<><><><><><> draweb cli test');
