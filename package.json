@@ -1,13 +1,18 @@
 {
-	"name": "draweb",
-	"description":"",
-	"version": "0.0.1",
-	"url":"https://github.com/podmaxs/draweb-cli",
-	"license": "MIT",
-	"email":"podmaxs@gmail.com",
+	"name":        "draweb",
+	"description": "Cliente para administracion de proyectos",
+	"version":     "0.0.1",
+	"url":         "https://github.com/podmaxs/draweb-cli",
+	"license":     "MIT",
+	"email":       "dev@draweb.cloud",
 	"bin": {
     	"draweb": "./bin/draweb.js"
- 	 },
+ 	},
+ 	"author": {
+	    "name":  "podmaxs",
+	    "email": "dev@draweb.cloud",
+	    "url":   "http://draweb.cloud"
+    },
   	"engines": {
     	"node": ">= 0.9"
   	}
