@@ -3,7 +3,7 @@
 	"description":"",
 	"version": "0.0.1",
 	"url":"https://github.com/podmaxs/draweb-cli",
-	"license": "ISC",
+	"license": "MIT",
 	"email":"podmaxs@gmail.com",
 	"bin": {
     	"draweb": "./bin/draweb.js"
