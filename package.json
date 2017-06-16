@@ -8,6 +8,9 @@
 	"bin": {
     	"draweb": "./bin/draweb.js"
  	},
+	"files": [
+		"bin"
+	],
  	"author": {
 	    "name":  "podmaxs",
 	    "email": "dev@draweb.cloud",
