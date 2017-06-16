@@ -6,6 +6,6 @@
 	"license": "ISC",
 	"email":"podmaxs@gmail.com",
 	"bin": {
-    	"draweb": "bin/draweb"
+    	"draweb": "bin/draweb.js"
  	 }
 }
